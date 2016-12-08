@@ -1,2 +1,2 @@
 # AnyChat
-Chat powered with real time translation
+Chat powered with some awesome features
